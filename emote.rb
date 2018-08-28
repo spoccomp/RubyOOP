@@ -11,13 +11,13 @@ class Emoji_State
     end
     def happy()
         
-        @str +  "🤪"
+        @str + "🤪"
     end
     def laughing()
         @str + "🤣"
     end
     def angry()
-        @str +  "🤬"
+        @str + "🤬"
 
     end
 end
