@@ -20,11 +20,11 @@ attr_accessor :name
 end
 
 
-giraffe = Animal.new("buddy",20,"mammal")
-lizard = Animal.new("snakey", 4, "reptile")
+# giraffe = Animal.new("buddy",20,"mammal")
+# lizard = Animal.new("snakey", 4, "reptile")
 
-puts "I am a #{giraffe.species} and my name is #{giraffe.name}. I am #{giraffe.height} feet tall."
-# puts giraffe.height
-# puts giraffe.species
-puts "#{giraffe.walk}"
-lizard.run
+# puts "I am a #{giraffe.species} and my name is #{giraffe.name}. I am #{giraffe.height} feet tall."
+# # puts giraffe.height
+# # puts giraffe.species
+# puts "#{giraffe.walk}"
+# lizard.run
