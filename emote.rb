@@ -21,7 +21,7 @@ class Emoji_State
 
     end
 end
-sentence = Emoji_State.new("I actually code!")
+sentence = Emoji_State.new("I can actually code!")
 puts sentence.original()
 puts sentence.sad()
 puts sentence.happy()
